@@ -1,4 +1,4 @@
-# CSE 13 Battleboats
+CSE 13 Battleboats
 
 A spin on the board game "Battleship".
 Uses two different MicroChip PIC24 microcontrollers in order to simulated a game of battleboats. The goal is to sink the other player's ships that are placed along the board.
